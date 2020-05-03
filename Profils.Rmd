@@ -1,0 +1,10 @@
+---
+title: "Des devoirs en plus?"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+- Pas de devoirs à la maison, sauf pour les contrôles.     
+- On révise la leçon ensemble en classe    
+- Des évaluations sur des exposés, des leçons de « par cœur », et un contrôle final.    

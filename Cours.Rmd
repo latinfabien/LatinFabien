@@ -1,0 +1,10 @@
+---
+title: "Comment ça se passe?"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+- 2h en 5e, 4e et 3e    
+- Heures réparties : cours à 11, à 13h30, ou 16h30    
+- Au programme : étude de la mythologie, textes latins, d’images, et de la langue latine.     

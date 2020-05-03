@@ -1,0 +1,16 @@
+---
+title: " "
+output: html_document
+---
+
+<center><h1> Bonjour, et bienvenue sur le site de présentation de l’option latin au collège Fabien. </h1></center>  
+        
+                     
+                      
+<center>![](Accueil2.jpg)</center>
+
+        
+                
+<center><h3>Vous hésitez à prendre l’option latin l’année prochaine?    
+Vous avez besoin d’informations pour vous décidez?   
+Ce site répondra à vos questions.<h3> </center>

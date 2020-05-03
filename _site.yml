@@ -1,0 +1,22 @@
+name: "Estelle"
+navbar:
+  title: "Le latin:"
+  type: inverse
+  left:
+    - text: "une langue morte?"
+      icon: fa-bank
+      href: Description.html
+    - text: "Pourquoi le choisir?"
+      icon: fa-check-circle
+      href: Avantages.html
+    - text: "Comment ça se passe?"
+      icon: fa-chalkboard-teacher
+      href: Modalites.html
+  right:
+    - text: "Contact"
+      icon: fa-envelope
+      href: Adresse_mail.html
+output_dir: "."
+output:
+  html_document:
+    theme: journal

@@ -1,0 +1,22 @@
+---
+title: "Le latin, une langue morte ?"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+<span style="color:black">
+Le latin est une langue ancienne, qui n’est plus parlée mais est encore traduite.    
+Elle a donné naissance à beaucoup de langues européennes : le français, l’italien, l’espagnol, le portugais et le roumain.    
+
+<span style="color:black"><b>Petit test:</b>   
+![](Tableau.png){width="70%"}
+
+<span style="color:black">C'est une langue morte mais tu la parles tous les jours !    
+
+<span style="color:black"><b>Exemple:</b>    
+
+| ![](Poisson.jpg) | ![](Lavabo.jpg) | ![](Agenda.jpg) | ![](Poney.jpg) |
+|------------------|-----------------|-----------------|-----------------|
+| A _ _ _ _ _ _ _  | L _ _ _ _ _     | A _ _ _ _ _     | P _ _ _ _ _     |
+

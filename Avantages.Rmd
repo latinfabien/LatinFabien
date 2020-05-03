@@ -1,0 +1,21 @@
+---
+title: "Pourquoi choisir le latin en 5ème?"
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+<span style="color:black">
+Le latin peut être utile dans plusieurs matières : le français (orthographe, grammaire, conjugaison), les langues vivantes, l’histoire-géo, voire en maths.        
+        
+<span style="color:black"> <b>Exemple:</b> fraction vient du latin fratio, qui veut dire brisé.    
+        
+<span style="color:black">Les références à cette langue aujourd’hui sont nombreuses :     
+| ![](nivea.jpg){width="15%"}  | ![](mars.png){width="15%"}  | ![](Audi.png){width="15%"}  | ![](Urgo.gif){width="15%"}  |
+
+<span style="color:black">Toutes ces marques viennent de mots ou de noms latins.    
+        
+        
+- <span style="color:black">L’option te permet de faire au moins une sortie par an. Les latinistes devaient aller au Louvre cette année, mais elle a été annulée à cause du coronavirus.    
+- <span style="color:black">Elle te permet de gagner des points supplémentaires pour le brevet.    
+- <span style="color:black">Si tu apprends tes leçons par cœur, ta moyenne augmentera.    

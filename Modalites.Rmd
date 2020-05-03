@@ -1,0 +1,22 @@
+---
+title: "  " 
+output:
+  html_document:
+    toc: false
+    toc_float: false
+---
+
+# Comment ça se passe ?
+-   On travaille en petits groupes.    
+-   On fait des séances au CDI, ou en salle informatique.    
+-   On peut travailler sur des exposés.    
+
+# Des devoirs en plus ?
+- Pas de devoirs à la maison, sauf pour les contrôles.     
+- On révise la leçon ensemble en classe    
+- Des évaluations sur des exposés, des leçons de « par cœur », et un contrôle final.    
+
+# Quelles sont les heures de travail ?
+- 2h en 5e, 4e et 3e    
+- Heures réparties : cours à 11, à 13h30, ou 16h30    
+- Au programme : étude de la mythologie, textes latins, d’images, et de la langue latine.    
