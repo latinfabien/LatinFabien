@@ -12,5 +12,5 @@ output: html_document
         
                 
 <center><h3>Vous hésitez à prendre l’option latin l’année prochaine?    
-Vous avez besoin d’informations pour vous décidez?   
+Vous avez besoin d’informations pour vous décider?   
 Ce site répondra à vos questions.<h3> </center>
