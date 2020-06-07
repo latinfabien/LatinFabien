@@ -20,3 +20,5 @@ output_dir: "."
 output:
   html_document:
     theme: journal
+    includes:
+    in_header: GA_Script.html
