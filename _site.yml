@@ -16,6 +16,7 @@ navbar:
     - text: "Contact"
       icon: fa-envelope
       href: Adresse_mail.html
+google_analytics: "UA-168789509-1"
 output_dir: "."
 output:
   html_document:
